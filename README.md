@@ -50,12 +50,12 @@ The focus of this project is on **UI implementation, clean architecture (MVVM), 
 
 ### 🏠 Home Screen
 
-<img src="Image1.png" width="250">
+<img src="Image2.png" width="250">
 
 
 ### 🎬 Movie Detail Screen
 
-<img src="Image2.png" width="250">
+<img src="Image1.png" width="250">
 
 
 ## 📂 Project Structure
