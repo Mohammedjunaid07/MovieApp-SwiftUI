@@ -98,12 +98,12 @@ MovieApp-SwiftUI/
 
 ### 🏠 Home Screen
 
-![Home](Image1.png)
+<img src="Image1.png" width="250">
 
 
 ### 🎬 Movie Detail Screen
 
-![Detail](Image2.png)
+<img src="Image2.png" width="250">
 
 ---
 
