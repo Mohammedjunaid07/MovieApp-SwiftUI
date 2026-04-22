@@ -46,6 +46,17 @@ The focus of this project is on **UI implementation, clean architecture (MVVM), 
 * **MVVM Architecture**
 
 ---
+## 📸 Screenshots
+
+### 🏠 Home Screen
+
+<img src="Image1.png" width="250">
+
+
+### 🎬 Movie Detail Screen
+
+<img src="Image2.png" width="250">
+
 
 ## 📂 Project Structure
 
@@ -94,16 +105,7 @@ MovieApp-SwiftUI/
 
 ---
 
-## 📸 Screenshots
 
-### 🏠 Home Screen
-
-<img src="Image1.png" width="250">
-
-
-### 🎬 Movie Detail Screen
-
-<img src="Image2.png" width="250">
 
 ---
 
